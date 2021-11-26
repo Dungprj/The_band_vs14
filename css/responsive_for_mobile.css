@@ -4,6 +4,9 @@
         padding: 64px 16px;
 
     }
+    #slider{
+        margin-top: 46px;
+    }
     .s-full-width,
     .s-col-full{
         width:100%;
